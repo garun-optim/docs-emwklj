@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-iacr2r.date-me.pro/sitemap.xml
